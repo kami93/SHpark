@@ -11,7 +11,7 @@ authors:
 - Jun Won Choi
 
 # Author notes (optional)
-author_notes:
+# author_notes:
 draft: false
 date: "2018-06-28T00:00:00Z"
 doi: "10.1109/IVS.2018.8500658"
