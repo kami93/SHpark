@@ -56,7 +56,7 @@ url_video: 'https://drive.google.com/file/d/1lznw7kD2XrR8z5TlBlWn5wtdeD6_E-JT/vi
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: ""
   focal_point: ""
   preview_only: false
 
@@ -65,7 +65,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
+projects: []
 # - example
 
 # Slides (optional).
@@ -73,7 +73,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
