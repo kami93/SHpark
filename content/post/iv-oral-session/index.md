@@ -1,5 +1,5 @@
 ---
-title: [Video] Oral Session at IV'18
+title: "[Video] Oral Session at IV'18"
 subtitle: Sequence-to-Sequence Prediction of Vehicle Trajectory via LSTM Encoder-Decoder Architecture
 
 # Summary for listings and search engines
