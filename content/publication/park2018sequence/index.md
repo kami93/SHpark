@@ -1,23 +1,23 @@
 ---
-title: "An example conference paper"
+title: "Sequence-to-Sequence Prediction of Vehicle Trajectory via LSTM Encoder-Decoder Architecture"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- ByeongDo Kim
+- Chang Mook Kang
+- Jun Won Choi
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-draft: true
-date: "2013-07-01T00:00:00Z"
-doi: ""
+draft: false
+date: "2018-06-28T00:00:00Z"
+doi: "10.1109/IVS.2018.8500658"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-10-22T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,18 +26,18 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *IEEE Intelligent Vehicles Symposium (IV) 2018*
+publication_short: In *IEEE IV'18*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this paper, we propose a deep learning based vehicle trajectory prediction technique which can generate the future trajectory sequence of surrounding vehicles in real time. We employ the encoder-decoder architecture which analyzes the pattern underlying in the past trajectory using the long short-term memory (LSTM) based encoder and generates the future trajectory sequence using the LSTM based decoder. This structure produces the K most likely trajectory candidates over occupancy grid map by employing the beam search technique which keeps the K locally best candidates from the decoder output. The experiments conducted on highway traffic scenarios show that the prediction accuracy of the proposed method is significantly higher than the conventional trajectory prediction techniques.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We propose a deep learning based vehicle trajectory prediction technique which can generate the future trajectory sequence of surrounding vehicles in real time.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -51,12 +51,12 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://drive.google.com/file/d/1lznw7kD2XrR8z5TlBlWn5wtdeD6_E-JT/view'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -66,7 +66,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+# - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
