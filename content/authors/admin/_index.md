@@ -6,11 +6,11 @@ title: Seong Hyeon Park
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student (starting from Sep. 2021)
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: The KAIST AI
+- name: KAIST AI
   url: http://gsai.kaist.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sng.hyn.park@gmail.com'
+  link: 'mailto:seonghyp@kaist.ac.kr'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -61,12 +61,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "sng.hyn.park@gmail.com"
+email: "seonghyp@kaist.ac.kr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I focus on multimodal representation learning. In particular, much interest of mine is now on capturing complementary interactions between texts and vision and a model's sense of uncertainty under quantitative and qualitative variations in the multimodal information. I am pursuing my Ph.D. degree at [Algorithmic Intelligence Laboratory @ the KAIST AI](http://alinlab.kaist.ac.kr/index.html), advised by Dr. Jinwoo Shin (My official terms of study start from September 2021). Previously, I graduated from Hanyang University with M.S. and B.S degrees under Dr. Jun-Won Choi, where I studied machine learning models for motion forecasting. Please find my CV for more details!
+I focus on multimodal representation learning. Much interest of mine is on capturing complementary interactions between texts and vision with temporal actions. I also study a multimodal learning model's sense of uncertainty under the variations in data quality. As for my academic career, I am a Ph.D. student member of [Algorithmic Intelligence Laboratory @ the KAIST AI](http://alinlab.kaist.ac.kr/index.html), advised by Dr. Jinwoo Shin. Previously, I graduated from Hanyang University with M.S. and B.S degrees under Dr. Jun-Won Choi, where I studied machine learning models for motion forecasting. Please find my CV for more details!
 
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
