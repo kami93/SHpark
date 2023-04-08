@@ -66,7 +66,7 @@ email: "seonghyp@kaist.ac.kr"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I focus on multimodal representation learning. Much interest of mine is on capturing complementary interactions between texts and vision with temporal actions. I also study a multimodal learning model's sense of uncertainty under the variations in data quality. As for my academic career, I am a Ph.D. student member of [Algorithmic Intelligence Laboratory @ the KAIST AI](http://alinlab.kaist.ac.kr/index.html), advised by Dr. Jinwoo Shin. Previously, I graduated from Hanyang University with M.S. and B.S degrees under Dr. Jun-Won Choi, where I studied machine learning models for motion forecasting. Please find my CV for more details!
+I focus on multi-modal representation learning. Most of my recent works are related to few-/zero-shot adaptation of vision-language models for novel tasks and data, including image segmentation and video recognition. Currently, I am a Ph.D. student member of [Algorithmic Intelligence Laboratory @ the KAIST AI](http://alinlab.kaist.ac.kr/index.html), advised by Dr. Jinwoo Shin. Previously, I graduated from Hanyang University with M.S. and B.S degrees under Dr. Jun-Won Choi, where I studied machine learning models for motion forecasting and autonomous driving.
 
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
